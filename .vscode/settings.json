@@ -1,0 +1,4 @@
+// permite formatear el texto automaticamente al ir guardando el codigo
+{
+    "editor.formatOnSave": true
+}
